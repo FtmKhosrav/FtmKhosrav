@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Fateme 👋
 
-<!--
-**FtmKhosrav/FtmKhosrav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate with experience in software engineering, process analysis, and system-oriented work.
 
-Here are some ideas to get you started:
+Currently working more in **systems analysis and business process tools (MSP, Visio, documentation, and workflow design)** while keeping a strong interest in **data science and artificial intelligence**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 💼 Current Focus
+
+* Process analysis & system design
+* Microsoft Project (MSP)
+* Microsoft Visio
+* Documentation & workflow modeling
+* Requirements analysis
+
+
+## 🧠 Background & Experience
+
+* Computer Science fundamentals (Algorithms, Programming, Data Structures)
+* Python & C++ development
+* Academic AI & Machine Learning projects (CNN, classification, simulation)
+* Data analysis projects during university
+
+
+## 📊 Interests (Long-term direction)
+
+* Data Science
+* Machine Learning
+* AI applications in real-world systems
+* Business process optimization using data
+  
+
+## 📁 Selected Projects
+
+* Matrix Calculator (C++)
+* Bus Station Simulation
+* MNIST Digit Recognition
+* Plant Disease Detection (CNN)
+* Speaker Recognition System
+
+
+## 🚀 Current Goal
+
+Building a bridge between **system/process analysis and data-driven decision making**.
+
+
+## 📫 Contact
+
+Open to learning, collaboration, and junior roles in data-related or systems roles.
