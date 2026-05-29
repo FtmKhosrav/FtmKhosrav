@@ -42,8 +42,4 @@ Currently working more in **systems analysis and business process tools (MSP, Vi
 ## 🚀 Current Goal
 
 Building a bridge between **system/process analysis and data-driven decision making**.
-
-
-## 📫 Contact
-
-Open to learning, collaboration, and junior roles in data-related or systems roles.
+Open to learning and collaboration in data-related or systems roles.
