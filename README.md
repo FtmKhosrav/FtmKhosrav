@@ -1,46 +1,32 @@
 # Hi, I'm Fateme 👋
 
-Computer Science graduate with experience in software engineering, process analysis, and system-oriented work.
+Computer Science graduate currently working as a Systems & Methods Specialist, with experience in process analysis, workflow design, and system documentation.
 
-Currently working more in **systems analysis and business process tools (MSP, Visio, documentation, and workflow design)** while keeping a strong interest in **data science and artificial intelligence**.
+Alongside my professional role, I have a strong interest in Machine Learning and Data Science, with practical experience through academic Machine Learning projects in predictive modeling, computer vision, and audio processing.
 
+## 💼 Current Role
+- Systems and process analysis
+- Workflow modeling (MSP, Visio)
+- Requirements analysis and documentation
+- Supporting system implementation and process optimization
 
-## 💼 Current Focus
+## 🧠 Interests
+- Machine Learning & Data Science
+- Predictive Modeling
+- Computer Vision
+- Data-driven systems and decision making
 
-* Process analysis & system design
-* Microsoft Project (MSP)
-* Microsoft Visio
-* Documentation & workflow modeling
-* Requirements analysis
-
-
-## 🧠 Background & Experience
-
-* Computer Science fundamentals (Algorithms, Programming, Data Structures)
-* Python & C++ development
-* Academic AI & Machine Learning projects (CNN, classification, simulation)
-* Data analysis projects during university
-
-
-## 📊 Interests (Long-term direction)
-
-* Data Science
-* Machine Learning
-* AI applications in real-world systems
-* Business process optimization using data
-  
+## 🛠 Technical Skills
+- Python, C++, SQL
+- Scikit-learn, TensorFlow/Keras
+- Pandas, NumPy, Matplotlib
+- Git/GitHub
 
 ## 📁 Selected Projects
+- Breast Cancer Risk Prediction (Random Forest, SMOTE)
+- Plant Disease Detection (Transfer Learning)
+- Speaker Identification (MFCC + SVM)
+- MNIST Digit Classification (KNN vs CNN)
 
-* Breast Cancer Risk Prediction using Machine Learning (Random Forest, SMOTE, BCSC 2017 dataset)
-* Plant Disease Detection using CNN (Deep Learning Image Classification)
-* Speaker Recognition System using MFCC and Machine Learning
-* MNIST Handwritten Digit Recognition using Neural Networks
-* Bus Station Simulation using Python (Queueing System Analysis)
-* Matrix Calculator using C++ (Object-Oriented Programming)
-
-
-## 🚀 Current Goal
-
-Building a bridge between **system/process analysis and data-driven decision making**.
-Open to learning and collaboration in data-related or systems roles.
+## 🚀 Goal
+Bridging systems thinking and process analysis with data-driven and machine learning approaches.
