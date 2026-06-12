@@ -32,11 +32,12 @@ Currently working more in **systems analysis and business process tools (MSP, Vi
 
 ## 📁 Selected Projects
 
-* Matrix Calculator (C++)
-* Bus Station Simulation
-* MNIST Digit Recognition
-* Plant Disease Detection (CNN)
-* Speaker Recognition System
+* Breast Cancer Risk Prediction using Machine Learning (Random Forest, SMOTE, BCSC 2017 dataset)
+* Plant Disease Detection using CNN (Deep Learning Image Classification)
+* Speaker Recognition System using MFCC and Machine Learning
+* MNIST Handwritten Digit Recognition using Neural Networks
+* Bus Station Simulation using Python (Queueing System Analysis)
+* Matrix Calculator using C++ (Object-Oriented Programming)
 
 
 ## 🚀 Current Goal
